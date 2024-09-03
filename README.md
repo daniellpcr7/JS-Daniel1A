@@ -1,6 +1,6 @@
 Olá!
 
-Bem-Vindo ao meu rpositório. Aproveite  para conhecer nossos projetos 2024!
+Bem-Vindo ao meu repositório. Aproveite  para conhecer nossos projetos 2024!
 
 ![](https://images.app.goo.gl/SL8SPk6rRHNYhxwq6)
 
